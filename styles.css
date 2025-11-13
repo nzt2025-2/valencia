@@ -1,5 +1,6 @@
 body {
-    background-color: rgb(219, 231, 229);
+    background-color: rgb(238, 246, 244);
+    /*background-image: url('Hintergrund.jpeg');*/
     font-family: Helvetica Now Text;
     color: yellow;
 }
@@ -20,6 +21,7 @@ p {
     font-size: 26px;
     color:rgb(122, 57, 85);
     text-align: left;
+    margin-left: 30px;
 }
 
 img {
@@ -35,10 +37,14 @@ img {
 font-size: 25px; 
 color: rgb(7, 50, 7);
 text-align: right;
+margin-right: 20px;
 }
 
 .containerSepezial {
     display: flex;
 }
 
+.miau{
 
+    margin-left: 200px
+}
