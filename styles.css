@@ -1,23 +1,25 @@
 body {
-    background-color: black;
+    background-color: rgb(219, 231, 229);
     font-family: Helvetica Now Text;
     color: yellow;
 }
 
 h1 {
     text-align: center;
-    color: aqua;
+    color: rgb(0, 153, 255);
+    font-size:120px;
 }
 
 p {
-    font-size: 18px;
+    font-size: 25px;
     text-align: center;
-    color: white;
+    color: rgb(2, 34, 31);
 }
 
 .meineKlasse {
-    font-size: 14px;
-    color:coral;
+    font-size: 26px;
+    color:rgb(122, 57, 85);
+    text-align: left;
 }
 
 img {
@@ -25,7 +27,18 @@ img {
 }
 
 .video {
-    width: 400px;
+    width: 220px;
     height: 220px
+    text-align center;
 }
+.meineKlasse2  {
+font-size: 25px; 
+color: rgb(7, 50, 7);
+text-align: right;
+}
+
+.containerSepezial {
+    display: flex;
+}
+
 
